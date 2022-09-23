@@ -4,3 +4,5 @@ tensorflow>=2.7.0
 tensorflow-probability>=0.14.1
 pymc3>=3.11.4
 pyro-ppl>=1.7.0
+jax>=0.2.21
+numpyro>=0.8.0
