@@ -3,3 +3,4 @@ jax
 jaxlib
 numpyro
 pyro-ppl
+gpytorch
